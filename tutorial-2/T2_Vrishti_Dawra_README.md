@@ -1,3 +1,31 @@
+
+#   Tutorial 2 (Individual)
+
+
+* *Date Created*: 24 JAN 2024
+* *Last Modification Date*: 29 JAN 2024
+* *Deployement URL*: https://65b7f42047764037fbee4490--serene-squirrel-f934e8.netlify.app
+* *GitLab URL*: https://git.cs.dal.ca/vdawra/csci-4177-tutorials/-/tree/main/tutorial-2?ref_type=heads
+* Gitlab Tutorial repository ( individual): https://git.cs.dal.ca/vdawra/csci-4177-tutorials.git
+* Gitlab Tutorial repository ( group ): https://git.cs.dal.ca/sarty/G19-CSCI4177.git
+* Gitlab Tutorial (Group) branch Jenna : https://git.cs.dal.ca/sarty/G19-CSCI4177/-/tree/Jenna?ref_type=heads
+* Gitlab Tutorial (Group) branch melvin : https://git.cs.dal.ca/sarty/G19-CSCI4177/-/tree/melvin?ref_type=heads
+* Gitlab Tutorial (Group) branch vrishti : https://git.cs.dal.ca/sarty/G19-CSCI4177/-/tree/vrishti?ref_type=heads
+* Gitlab Tutorial (Group) branch ayush : https://git.cs.dal.ca/sarty/G19-CSCI4177/-/tree/ayush?ref_type=heads
+* Gitlab Tutorial (Group) branch rijal : https://git.cs.dal.ca/sarty/G19-CSCI4177/-/tree/rijal?ref_type=heads
+* Gitlab Tutorial (Group) branch sarty : https://git.cs.dal.ca/sarty/G19-CSCI4177/-/tree/sarty?ref_type=heads
+* Gitlab Assignmments Repository: https://git.cs.dal.ca/vdawra/csci-4177-assignments.git
+
+
+## Authors
+
+
+* [Name](vdawra@dal.ca) - *(student)*
+
+## Citations
+This submission is done by referencing tutorial video and the handout provided. Nothing from outside is being used.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
