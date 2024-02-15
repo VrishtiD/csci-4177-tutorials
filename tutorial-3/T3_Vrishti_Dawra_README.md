@@ -5,7 +5,7 @@
 * *Date Created*: 13 FEB 2024
 * *Last Modification Date*: 14 FEB 2024
 * *Deployement URL*: https://65ce84f06a78c43f5d4027e3--resplendent-taffy-c132b0.netlify.app
-* *GitLab URL*: 
+* *GitLab URL*: https://git.cs.dal.ca/vdawra/csci-4177-tutorials/-/tree/main/tutorial-3?ref_type=heads
 
 
 
